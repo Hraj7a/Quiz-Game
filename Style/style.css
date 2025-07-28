@@ -23,9 +23,6 @@ section {
   /* transform: scale(0.9); 
   transform-origin: top left; */
 }
-td:empty {
-  display: none;
-}
 
 .welcome-page,
 .options {
